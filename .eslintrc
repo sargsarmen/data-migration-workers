@@ -1,0 +1,10 @@
+{
+  "extends": ["airbnb", "prettier"],
+  "parser": "babel-eslint",
+  "plugins": ["prettier"],
+  "rules": {
+    "prettier/prettier": ["error"],
+    "no-plusplus": "off",
+    "class-methods-use-this": "off"
+  }
+}
