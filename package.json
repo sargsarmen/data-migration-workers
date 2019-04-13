@@ -1,7 +1,7 @@
 {
   "name": "data-migration",
   "version": "1.0.0",
-  "description": "Big data migration example",
+  "description": "Big data migration example with Node.js Child Processes",
   "main": "index.js",
   "scripts": {
     "start": "node --harmony index.js"
